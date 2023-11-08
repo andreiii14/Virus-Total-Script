@@ -11,13 +11,12 @@ This is a Python script that uses the VirusTotal API to check whether a given fi
 
 1. Clone the repository to your local machine:
 
-
 git clone `https://github.com/your-username/your-repository.git`
 
-1. Install the required Python modules:
+2. Install the required Python modules:
 pip install virus_total_apis
 
-1. Replace "<your_api_key_here>" with your actual VirusTotal API key in the virus_total.py script.
+3. Replace "<your_api_key_here>" with your actual VirusTotal API key in the virus_total.py script.
 
 ## Usage
 
